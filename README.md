@@ -1,1 +1,1 @@
-# Capstone2025-Prabakaran-Counter-Narrative-Generation-For-Homophobia-and-Transphobia-in-Tamil
+# Tamil_HT_CN_MultiAgent-Amritha_Journal
